@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\практическая номер 4 айти практика.obj",
+            "outputs": [
+                "x64\\Debug\\практическая номер 4 айти практика.cpp.obj.dt.module.json",
+                "x64\\Debug\\практическая номер 4 айти практика.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

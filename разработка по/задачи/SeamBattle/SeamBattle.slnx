@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SeamBattle/SeamBattle.vcxproj" Id="20c756c4-b75a-49f4-a6d0-7d95df0ccf92" />
+</Solution>
